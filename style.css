@@ -1,0 +1,7 @@
+.fieldset{
+    width: 50%;
+    border-right-color: red;
+    border-left-color: green;
+    border-top-color: purple;
+    border-bottom-color: yellow;
+}

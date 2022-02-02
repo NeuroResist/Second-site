@@ -1,0 +1,30 @@
+.main-menu{
+
+}
+
+.main-menu__item{
+    display: inline;
+    background: #ffcc48;
+    color: antiquewhite;
+    padding: 14px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.main-menu__link{
+    color: white;
+    text-decoration: none ;
+}
+.earth-img{
+    position: absolute;
+    top:100px;
+    right: 100px;
+}
+
+.circle{
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    margin: 40px;
+    background: #E4B366;
+    border: 30px solid rgba(0, 0, 0, 0.05);
+}
